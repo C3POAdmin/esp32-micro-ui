@@ -1,0 +1,8 @@
+{
+  "name": "esp32-micro_ui",
+  "version": "1.0.0",
+  "description": "Lightweight abstract UI engine for embedded displays",
+  "keywords": ["ui", "embedded", "display"],
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"]
+}
