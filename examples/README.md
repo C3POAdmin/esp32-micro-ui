@@ -10,6 +10,6 @@ If using Arduino IDE, you must manually configure:
 
 TFT_eSPI/User_Setup.h
 
-to match your specific display and pin configuration.
+To match your specific display and pin configuration.
 
 The examples assume correct TFT_eSPI configuration before compiling.
